@@ -6,3 +6,5 @@
 * Web Scraping result will store in format of json that suits Elastic Search bulk insert
 * Script of starting Elastic Search and bulk insert scrape result is included
 * A search demo display front end using Vue.js is included
+* Visit the following link for detailed explanation
+https://medium.com/@datalearningpr/web-scraping-and-elastic-search-it-d379c4ab1a13
